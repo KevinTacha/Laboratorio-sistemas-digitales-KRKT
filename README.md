@@ -47,13 +47,13 @@ Reconocer el funcionamiento de diferentes compuertas lógicas y analizar su comp
 <tr>
 <td align="center">
 
-<img src="imagenes/materiales2.jpeg" width="300"><br>
+<img src="imagenes/materiales2.jpeg" width="500"><br>
 
 </td>
 
 <td align="center">
 
-<img src="imagenes/materiales3.jpeg" width="350"><br>
+<img src="imagenes/materiales3.jpeg" width="500"><br>
 
 </td>
 </tr>
