@@ -36,7 +36,7 @@ Reconocer el funcionamiento de diferentes compuertas lógicas y analizar su comp
 - Bateria 9V
 - LM 7806
 - TL 555
-- BOMBILLOS LED
+- Bombillos LED
 - Resistencias
 - Capacitores
 - Cables de conexión
