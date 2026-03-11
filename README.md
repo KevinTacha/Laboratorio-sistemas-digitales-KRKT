@@ -43,7 +43,7 @@ Reconocer el funcionamiento de diferentes compuertas lógicas y analizar su comp
 - Fuente de alimentación
 
   <p align="center">
-  <img src="imagenes/materiales.png" width="500">
+  <img src="imagenes/materiales.jpeg" width="500">
 </p>
 
 
