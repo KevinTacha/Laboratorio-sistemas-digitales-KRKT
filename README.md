@@ -33,10 +33,19 @@ Reconocer el funcionamiento de diferentes compuertas lógicas y analizar su comp
 - Circuito integrado 74HC04
 - Circuito integrado 74HC02
 - Protoboard
+- Bateria 9V
+- LM 7806
+- TL 555
+- BOMBILLOS LED
 - Resistencias
 - Capacitores
 - Cables de conexión
 - Fuente de alimentación
+
+  <p align="center">
+  <img src="imagenes/materiales.png" width="500">
+</p>
+
 
 ---
 
