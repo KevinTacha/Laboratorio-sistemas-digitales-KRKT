@@ -6,6 +6,7 @@ Fundación Universitaria Compensar
 
 Estudiantes:
 Karol Vanessa Rojas Gil
+
 Kevin Alejandro Tacha Herrera
 
 ---
