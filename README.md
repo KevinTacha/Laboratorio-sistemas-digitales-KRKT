@@ -209,14 +209,12 @@ Se realizaron pruebas para verificar:
 <td align="center">
 
 <img src="imagenes/pruebareal_1.jpeg" width="300"><br>
-Compuerta AND
 
 </td>
 
 <td align="center">
 
 <img src="imagenes/pruebareal_2.jpeg" width="300"><br>
-Compuerta OR
 
 </td>
 </tr>
@@ -225,14 +223,12 @@ Compuerta OR
 <td align="center">
 
 <img src="imagenes/pruebareal_3.jpeg" width="300"><br>
-Compuerta XOR
 
 </td>
 
 <td align="center">
 
 <img src="imagenes/pruebareal_4.jpeg" width="300"><br>
-Compuerta NOR
 
 </td>
 </tr>
