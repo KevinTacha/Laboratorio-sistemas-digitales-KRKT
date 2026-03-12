@@ -189,6 +189,11 @@ Pasos de montaje:
 6. La salida de la compuerta se conectó a un LED para indicar el estado de salida.
 7. Se añadió una resistencia limitadora para proteger el LED.
 8. Se realizaron pruebas con diferentes combinaciones de entrada para verificar el funcionamiento de la compuerta NOR.
+
+<p align="center">
+<img src="imagenes/logica_nor.png" width="500">
+</p>
+   
 ---
 
 ### Paso 4: Pruebas del circuito
