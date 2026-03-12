@@ -152,6 +152,19 @@ Pasos de Montaje:
 <img src="imagenes/logica_not.png" width="500">
 </p>
 
+### Compuerta XOR - Integrado 74HC86
+
+<p align="center">
+<img src="imagenes/compuerta_xor.png" width="500">
+</p>
+
+
+
+<p align="center">
+<img src="imagenes/logica_xor.png" width="500">
+</p>
+
+
 ---
 
 ### Paso 4: Pruebas del circuito
