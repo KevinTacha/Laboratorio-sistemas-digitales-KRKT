@@ -158,7 +158,16 @@ Pasos de Montaje:
 <img src="imagenes/compuerta_xor.png" width="500">
 </p>
 
+Pasos de montaje:
 
+1. Se conectó la fuente de alimentación de 5V a los rieles positivo y negativo de la protoboard.
+2. Se colocó el circuito integrado 74HC86 en el centro de la protoboard para facilitar las conexiones.
+3. Se conectaron los pines de alimentación del integrado al riel positivo (Vcc) y al riel negativo (GND).
+4. Se utilizaron dos interruptores del DIP switch como entradas lógicas A y B.
+5. Las salidas de los interruptores se conectaron a las entradas de la compuerta XOR.
+6. La salida de la compuerta se conectó a un LED para visualizar el resultado lógico.
+7. Se agregó una resistencia en serie con el LED para limitar la corriente.
+8. Se probaron diferentes combinaciones de entrada para observar el comportamiento exclusivo de la compuerta XOR.
 
 <p align="center">
 <img src="imagenes/logica_xor.png" width="500">
