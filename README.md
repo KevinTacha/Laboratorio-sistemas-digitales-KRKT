@@ -173,7 +173,22 @@ Pasos de montaje:
 <img src="imagenes/logica_xor.png" width="500">
 </p>
 
+### Compuerta NOR – Integrado 74HC02
 
+<p align="center">
+<img src="imagenes/compuerta_nor.png" width="500">
+</p>
+
+Pasos de montaje:
+
+1. Se conectó la fuente de alimentación a los rieles de energía de la protoboard.
+2. Se colocó el circuito integrado 74HC02 en el centro de la protoboard.
+3. Se conectaron los pines de alimentación del integrado a los rieles de voltaje.
+4. Se utilizaron interruptores del módulo DIP como entradas lógicas del circuito.
+5. Cada interruptor se conectó a una de las entradas de la compuerta NOR.
+6. La salida de la compuerta se conectó a un LED para indicar el estado de salida.
+7. Se añadió una resistencia limitadora para proteger el LED.
+8. Se realizaron pruebas con diferentes combinaciones de entrada para verificar el funcionamiento de la compuerta NOR.
 ---
 
 ### Paso 4: Pruebas del circuito
