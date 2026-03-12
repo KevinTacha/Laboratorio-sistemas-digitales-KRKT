@@ -120,6 +120,9 @@ Pasos de Montaje:
   <img src="imagenes/logica_and.png" width="500">
 </p>
 
+### Compuerta OR - Integrado 74HC32
+
+
 ---
 
 ## Resultados
