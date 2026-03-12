@@ -108,6 +108,8 @@ Se realizaron pruebas para verificar:
 Pasos de Montaje:
 
 1. Se conectó la fuente de alimentación de 5V a los rieles positivo y negativo de la protoboard.
+2. Se colocó el circuito integrado 74HC08 en el centro de la protoboard para separar las dos mitades del circuito.
+
 
 ---
 
