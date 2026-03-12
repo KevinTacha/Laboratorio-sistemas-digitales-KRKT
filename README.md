@@ -203,7 +203,45 @@ Se realizaron pruebas para verificar:
 - Funcionamiento de la onda cuadrada
 - Comportamiento de las compuertas lógicas
 - Tiempo de la señal
-  
+
+<table>
+<tr>
+<td align="center">
+
+<img src="imagenes/pruebareal1.jpeg" width="300"><br>
+Compuerta AND
+
+</td>
+
+<td align="center">
+
+<img src="imagenes/pruebareal2.jpeg" width="300"><br>
+Compuerta OR
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="imagenes/pruebareal3.jpeg" width="300"><br>
+Compuerta XOR
+
+</td>
+
+<td align="center">
+
+<img src="imagenes/pruebareal4.jpeg" width="300"><br>
+Compuerta NOR
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img src="imagenes/referencia1.jpeg" width="250">
+</p>
+
 ---
 
 ## Resultados
