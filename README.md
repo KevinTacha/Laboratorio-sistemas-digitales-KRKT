@@ -208,14 +208,14 @@ Se realizaron pruebas para verificar:
 <tr>
 <td align="center">
 
-<img src="imagenes/pruebareal1.jpeg" width="300"><br>
+<img src="imagenes/pruebareal_1.jpeg" width="300"><br>
 Compuerta AND
 
 </td>
 
 <td align="center">
 
-<img src="imagenes/pruebareal2.jpeg" width="300"><br>
+<img src="imagenes/pruebareal_2.jpeg" width="300"><br>
 Compuerta OR
 
 </td>
@@ -224,14 +224,14 @@ Compuerta OR
 <tr>
 <td align="center">
 
-<img src="imagenes/pruebareal3.jpeg" width="300"><br>
+<img src="imagenes/pruebareal_3.jpeg" width="300"><br>
 Compuerta XOR
 
 </td>
 
 <td align="center">
 
-<img src="imagenes/pruebareal4.jpeg" width="300"><br>
+<img src="imagenes/pruebareal_4.jpeg" width="300"><br>
 Compuerta NOR
 
 </td>
