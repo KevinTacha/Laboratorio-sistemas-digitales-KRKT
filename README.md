@@ -72,7 +72,7 @@ Durante el funcionamiento del circuito, el capacitor se carga a través de las r
 Finalmente, el comportamiento de la señal fue verificado mediante instrumentos de medición como osciloscopio y multímetro, conectados al montaje realizado en la protoboard, permitiendo observar la forma de la onda cuadrada y comprobar el período aproximado de la señal generada.
 
 <p align="center">
-<img src="imagenes/video1.mp4" width="500">
+<img src="imagenes/video1.1.1.mp4" width="500">
 </p>
 
 Como resultado, la salida del circuito produce una onda cuadrada periódica, la cual puede ser observada mediante instrumentos de medición como un osciloscopio o un multímetro, permitiendo verificar que el período de la señal se aproxima a los 2 segundos establecidos en el diseño del laboratorio.
