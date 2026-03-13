@@ -3,9 +3,12 @@ Fundación Universitaria Compensar
 
 Estudiantes:
 
-Karol Vanessa Rojas Gil
+- Karol Vanessa Rojas Gil
 
-Kevin Alejandro Tacha Herrera
+- Kevin Alejandro Tacha Herrera
+
+Profesor: Diego Alejandro Barragan Vargas
+
 
 ---
 
@@ -120,7 +123,7 @@ Se realizaron pruebas para verificar:
 
 ## Segundo punto - compuertas logicas
 
-### Compuerta AND – Integrado 74HC08 - [Tinkercard](https://www.tinkercad.com/things/ijYanvoWZnM-compuerta-and?sharecode=0LvTHi_rdgiP0WGKuxG89wGqPVrhitMoEK3IDhp8-3w)
+### Compuerta AND – Integrado 74HC08 - [Click aqui para ver la compuerta en Tinkercad](https://www.tinkercad.com/things/ijYanvoWZnM-compuerta-and?sharecode=0LvTHi_rdgiP0WGKuxG89wGqPVrhitMoEK3IDhp8-3w)
 
 <p align="center">
   <img src="imagenes/compuerta_and.png" width="500">
@@ -141,7 +144,7 @@ Paso a paso del montaje:
   <img src="imagenes/logica_and.png" width="500">
 </p>
 
-### Compuerta OR - Integrado 74HC32 - [Tinkercard](https://www.tinkercad.com/things/av3mRVT1L7G-compuerta-or?sharecode=LW7rlBlbIe4HZMe1ix30zP7ea2D9Z6rB-zzEMECmG4E)
+### Compuerta OR - Integrado 74HC32 - [Click aqui para ver la compuerta en Tinkercad](https://www.tinkercad.com/things/av3mRVT1L7G-compuerta-or?sharecode=LW7rlBlbIe4HZMe1ix30zP7ea2D9Z6rB-zzEMECmG4E)
 
 <p align="center">
 <img src="imagenes/compuerta_or.png" width="500">
@@ -162,7 +165,7 @@ Paso a paso del montaje:
   <img src="imagenes/Logica_or.png" width="500">
 </p>
 
-### Compuerta NOT - Integrado 74HC04 - [Tinkercard](https://www.tinkercad.com/things/8UtpoyYXloY-compuerta-not?sharecode=5TMTHlrxxA68Nqmnzsuiw-QIFKnXODRLwraCumJHaSc)
+### Compuerta NOT - Integrado 74HC04 - [Click aqui para ver la compuerta en Tinkercad](https://www.tinkercad.com/things/8UtpoyYXloY-compuerta-not?sharecode=5TMTHlrxxA68Nqmnzsuiw-QIFKnXODRLwraCumJHaSc)
 
 <p align="center">
 <img src="imagenes/compuerta_not.png" width="500">
@@ -183,7 +186,7 @@ Paso a paso del montaje:
 <img src="imagenes/logica_not.png" width="500">
 </p>
 
-### Compuerta XOR - Integrado 74HC86 - [Tinkercard](https://www.tinkercad.com/things/kYg5jhN26B2-compuerta-xor?sharecode=fziA4A5IfIOa9Gr3D9o-7fF03FZu31V4EmO6nNMWn5I)
+### Compuerta XOR - Integrado 74HC86 - [Click aqui para ver la compuerta en Tinkercad](https://www.tinkercad.com/things/kYg5jhN26B2-compuerta-xor?sharecode=fziA4A5IfIOa9Gr3D9o-7fF03FZu31V4EmO6nNMWn5I)
 
 <p align="center">
 <img src="imagenes/compuerta_xor.png" width="500">
@@ -204,7 +207,7 @@ Paso a paso del montaje:
 <img src="imagenes/logica_xor.png" width="500">
 </p>
 
-### Compuerta NOR – Integrado 74HC02 - [Tinkercard](https://www.tinkercad.com/things/j9MPzrW99cB-compuerta-nor?sharecode=099MKftzfNW9uJoDSKJenmI_OJ6PgEynm8udGUApIfg)
+### Compuerta NOR – Integrado 74HC02 - [Click aqui para ver la compuerta en Tinkercad](https://www.tinkercad.com/things/j9MPzrW99cB-compuerta-nor?sharecode=099MKftzfNW9uJoDSKJenmI_OJ6PgEynm8udGUApIfg)
 
 <p align="center">
 <img src="imagenes/compuerta_nor.png" width="500">
@@ -225,7 +228,7 @@ Paso a paso del montaje:
 <img src="imagenes/logica_nor.png" width="500">
 </p>
 
-### Compuerta NAND - Integrado 74HC00 - [Tinkercard](https://www.tinkercad.com/things/2DxINF8fswP-compuerta-nand)
+### Compuerta NAND - Integrado 74HC00 - [Click aqui para ver la compuerta en Tinkercad](https://www.tinkercad.com/things/2DxINF8fswP-compuerta-nand)
 
 Paso a paso del montaje:
 
