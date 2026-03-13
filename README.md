@@ -230,7 +230,11 @@ Paso a paso del montaje:
 
 ### Compuerta NAND - Integrado 74HC00 - [Click aqui para ver la compuerta en Tinkercad](https://www.tinkercad.com/things/2DxINF8fswP-compuerta-nand?sharecode=h-DH9Pxd8UayKtqKfkgr78nkKGpN3eHfwx6NcemO25w)
 
-Pasos de montaje:
+<p align="center">
+<img src="imagenes/compuerta_nand.jpeg" width="500">
+</p>
+
+Paso a paso del montaje:
 
 1. Alimentación de la protoboard: Se conectó la fuente de voltaje a los rieles superiores de la protoboard y se realizaron puentes para energizar también los rieles inferiores.
 2. Ubicación del Integrado: Se colocó el circuito integrado 74HC00 (NAND de dos entradas) en el canal central de la protoboard para evitar cortocircuitos entre sus pines.
@@ -240,6 +244,11 @@ Pasos de montaje:
 6. Puente de señales lógicas: Se utilizó un cable verde para conectar la salida del primer interruptor al pin 1 (Entrada 1A) y un cable amarillo para conectar el segundo interruptor al pin 2 (Entrada 1B).
 7. Circuito de salida: Se conectó el pin 3 (Salida 1Y) mediante un cable naranja hacia el ánodo de un LED. El cátodo del LED se conectó a tierra a través de una resistencia limitadora para protegerlo.
 8. Verificación funcional: Se comprobó la tabla de verdad de la compuerta NAND, confirmando que el LED solo se apaga cuando ambos interruptores están en posición "ON" (1,1).
+
+<p align="center">
+<img src="imagenes/logica_nand.jpeg" width="500">
+</p>
+
 
 ---
 
