@@ -78,116 +78,7 @@ Como resultado, la salida del circuito produce una onda cuadrada periódica, la 
 <img src="imagenes/pruebareal_3.jpeg" width="500">
 </p>
 
----
-## Segundo punto - compuertas logicas
-### Compuerta AND – Integrado 74HC08
-
-<p align="center">
-  <img src="imagenes/compuerta_and.png" width="500">
-</p>
-
-Pasos de montaje:
-
-1. Se conectó la fuente de alimentación de 5V al positivo y negativo de la protoboard.
-2. Se colocó el circuito integrado 74HC08 en el centro de la protoboard para separar las dos mitades del circuito.
-3. Se conectó el pin de alimentación del integrado al riel positivo y el pin de tierra al riel negativo.
-4. Se utilizó un módulo de interruptores DIP para representar las entradas lógicas A y B.
-5. Las salidas de los interruptores se conectaron a las entradas de la compuerta AND.
-6. La salida de la compuerta se conectó a un LED para visualizar el resultado lógico.
-7. Se agregó una resistencia en serie con el LED para limitar la corriente.
-8. Se realizaron pruebas activando diferentes combinaciones de los interruptores para verificar el comportamiento de la compuerta.
-
-<p align="center">
-  <img src="imagenes/logica_and.png" width="500">
-</p>
-
-### Compuerta OR - Integrado 74HC32
-
-<p align="center">
-<img src="imagenes/compuerta_or.png" width="500">
-</p>
-
-Pasos de Montajee:
-
-1. Se conectó la fuente de alimentación a la protoboard.
-2. Se colocó el circuito integrado 74HC32 en la protoboard.
-3. Se conectaron los pines de alimentación del integrado a los rieles de voltaje.
-4. Se configuraron dos interruptores del DIP switch como entradas lógicas.
-5. Cada interruptor se conectó a una de las entradas de la compuerta OR.
-6. La salida de la compuerta se conectó a un LED indicador.
-7. Se añadió una resistencia limitadora entre el LED y tierra.
-8. Se probaron diferentes combinaciones de entrada para comprobar el funcionamiento de la compuerta OR.
-
-<p align="center">
-  <img src="imagenes/Logica_or.png" width="500">
-</p>
-
-### Compuerta NOT - Integrado 74HC04
-
-<p align="center">
-<img src="imagenes/compuerta_not.png" width="500">
-</p>
-
-Pasos de Montaje:
-
-1. Se conectó la fuente de alimentación de 5V a la protoboard.
-2. Se colocó el circuito integrado 74HC04 en la protoboard.
-3. Se conectaron los pines de alimentación del integrado a los rieles de energía.
-4. Se utilizó un interruptor del DIP switch como entrada lógica.
-5. La entrada se conectó al pin de entrada de una de las compuertas NOT.
-6. La salida de la compuerta se conectó a un LED para observar el resultado.
-7. Se agregó una resistencia limitadora para proteger el LED.
-8. Se verificó que cuando la entrada está en nivel alto el LED se apaga y cuando está en nivel bajo el LED se enciende.
-
-<p align="center">
-<img src="imagenes/logica_not.png" width="500">
-</p>
-
-### Compuerta XOR - Integrado 74HC86
-
-<p align="center">
-<img src="imagenes/compuerta_xor.png" width="500">
-</p>
-
-Pasos de montaje:
-
-1. Se conectó la fuente de alimentación de 5V a los rieles positivo y negativo de la protoboard.
-2. Se colocó el circuito integrado 74HC86 en el centro de la protoboard para facilitar las conexiones.
-3. Se conectaron los pines de alimentación del integrado al riel positivo (Vcc) y al riel negativo (GND).
-4. Se utilizaron dos interruptores del DIP switch como entradas lógicas A y B.
-5. Las salidas de los interruptores se conectaron a las entradas de la compuerta XOR.
-6. La salida de la compuerta se conectó a un LED para visualizar el resultado lógico.
-7. Se agregó una resistencia en serie con el LED para limitar la corriente.
-8. Se probaron diferentes combinaciones de entrada para observar el comportamiento exclusivo de la compuerta XOR.
-
-<p align="center">
-<img src="imagenes/logica_xor.png" width="500">
-</p>
-
-### Compuerta NOR – Integrado 74HC02
-
-<p align="center">
-<img src="imagenes/compuerta_nor.png" width="500">
-</p>
-
-Pasos de montaje:
-
-1. Se conectó la fuente de alimentación a los rieles de energía de la protoboard.
-2. Se colocó el circuito integrado 74HC02 en el centro de la protoboard.
-3. Se conectaron los pines de alimentación del integrado a los rieles de voltaje.
-4. Se utilizaron interruptores del módulo DIP como entradas lógicas del circuito.
-5. Cada interruptor se conectó a una de las entradas de la compuerta NOR.
-6. La salida de la compuerta se conectó a un LED para indicar el estado de salida.
-7. Se añadió una resistencia limitadora para proteger el LED.
-8. Se realizaron pruebas con diferentes combinaciones de entrada para verificar el funcionamiento de la compuerta NOR.
-
-<p align="center">
-<img src="imagenes/logica_nor.png" width="500">
-</p>
-   
----
-
-### Paso 4: Pruebas del circuito
+### Pruebas del circuito
 
 Se realizaron pruebas para verificar:
 
@@ -224,16 +115,131 @@ Se realizaron pruebas para verificar:
 </td>
 </tr>
 </table>
+---
+## Segundo punto - compuertas logicas
+### Compuerta AND – Integrado 74HC08 - [Tinkercard](https://www.tinkercad.com/things/ijYanvoWZnM-compuerta-and?sharecode=0LvTHi_rdgiP0WGKuxG89wGqPVrhitMoEK3IDhp8-3w)
 
+<p align="center">
+  <img src="imagenes/compuerta_and.png" width="500">
+</p>
 
+Paso a paso del montaje:
+
+1. Se conectó la fuente de alimentación de 5V al positivo y negativo de la protoboard.
+2. Se colocó el circuito integrado 74HC08 en el centro de la protoboard para separar las dos mitades del circuito.
+3. Se conectó el pin de alimentación del integrado al riel positivo y el pin de tierra al riel negativo.
+4. Se utilizó un módulo de interruptores DIP para representar las entradas lógicas A y B.
+5. Las salidas de los interruptores se conectaron a las entradas de la compuerta AND.
+6. La salida de la compuerta se conectó a un LED para visualizar el resultado lógico.
+7. Se agregó una resistencia en serie con el LED para limitar la corriente.
+8. Se realizaron pruebas activando diferentes combinaciones de los interruptores para verificar el comportamiento de la compuerta.
+
+<p align="center">
+  <img src="imagenes/logica_and.png" width="500">
+</p>
+
+### Compuerta OR - Integrado 74HC32 - [Tinkercard](https://www.tinkercad.com/things/av3mRVT1L7G-compuerta-or?sharecode=LW7rlBlbIe4HZMe1ix30zP7ea2D9Z6rB-zzEMECmG4E)
+
+<p align="center">
+<img src="imagenes/compuerta_or.png" width="500">
+</p>
+
+Paso a paso del montaje:
+
+1. Se conectó la fuente de alimentación a la protoboard.
+2. Se colocó el circuito integrado 74HC32 en la protoboard.
+3. Se conectaron los pines de alimentación del integrado a los rieles de voltaje.
+4. Se configuraron dos interruptores del DIP switch como entradas lógicas.
+5. Cada interruptor se conectó a una de las entradas de la compuerta OR.
+6. La salida de la compuerta se conectó a un LED indicador.
+7. Se añadió una resistencia limitadora entre el LED y tierra.
+8. Se probaron diferentes combinaciones de entrada para comprobar el funcionamiento de la compuerta OR.
+
+<p align="center">
+  <img src="imagenes/Logica_or.png" width="500">
+</p>
+
+### Compuerta NOT - Integrado 74HC04 - [Tinkercard](https://www.tinkercad.com/things/8UtpoyYXloY-compuerta-not?sharecode=5TMTHlrxxA68Nqmnzsuiw-QIFKnXODRLwraCumJHaSc)
+
+<p align="center">
+<img src="imagenes/compuerta_not.png" width="500">
+</p>
+
+Paso a paso del montaje:
+
+1. Se conectó la fuente de alimentación de 5V a la protoboard.
+2. Se colocó el circuito integrado 74HC04 en la protoboard.
+3. Se conectaron los pines de alimentación del integrado a los rieles de energía.
+4. Se utilizó un interruptor del DIP switch como entrada lógica.
+5. La entrada se conectó al pin de entrada de una de las compuertas NOT.
+6. La salida de la compuerta se conectó a un LED para observar el resultado.
+7. Se agregó una resistencia limitadora para proteger el LED.
+8. Se verificó que cuando la entrada está en nivel alto el LED se apaga y cuando está en nivel bajo el LED se enciende.
+
+<p align="center">
+<img src="imagenes/logica_not.png" width="500">
+</p>
+
+### Compuerta XOR - Integrado 74HC86 - [Tinkercard](https://www.tinkercad.com/things/kYg5jhN26B2-compuerta-xor?sharecode=fziA4A5IfIOa9Gr3D9o-7fF03FZu31V4EmO6nNMWn5I)
+
+<p align="center">
+<img src="imagenes/compuerta_xor.png" width="500">
+</p>
+
+Paso a paso del montaje:
+
+1. Se conectó la fuente de alimentación de 5V a los rieles positivo y negativo de la protoboard.
+2. Se colocó el circuito integrado 74HC86 en el centro de la protoboard para facilitar las conexiones.
+3. Se conectaron los pines de alimentación del integrado al riel positivo (Vcc) y al riel negativo (GND).
+4. Se utilizaron dos interruptores del DIP switch como entradas lógicas A y B.
+5. Las salidas de los interruptores se conectaron a las entradas de la compuerta XOR.
+6. La salida de la compuerta se conectó a un LED para visualizar el resultado lógico.
+7. Se agregó una resistencia en serie con el LED para limitar la corriente.
+8. Se probaron diferentes combinaciones de entrada para observar el comportamiento exclusivo de la compuerta XOR.
+
+<p align="center">
+<img src="imagenes/logica_xor.png" width="500">
+</p>
+
+### Compuerta NOR – Integrado 74HC02 - [Tinkercard](https://www.tinkercad.com/things/j9MPzrW99cB-compuerta-nor?sharecode=099MKftzfNW9uJoDSKJenmI_OJ6PgEynm8udGUApIfg)
+
+<p align="center">
+<img src="imagenes/compuerta_nor.png" width="500">
+</p>
+
+Paso a paso del montaje:
+
+1. Se conectó la fuente de alimentación a los rieles de energía de la protoboard.
+2. Se colocó el circuito integrado 74HC02 en el centro de la protoboard.
+3. Se conectaron los pines de alimentación del integrado a los rieles de voltaje.
+4. Se utilizaron interruptores del módulo DIP como entradas lógicas del circuito.
+5. Cada interruptor se conectó a una de las entradas de la compuerta NOR.
+6. La salida de la compuerta se conectó a un LED para indicar el estado de salida.
+7. Se añadió una resistencia limitadora para proteger el LED.
+8. Se realizaron pruebas con diferentes combinaciones de entrada para verificar el funcionamiento de la compuerta NOR.
+
+<p align="center">
+<img src="imagenes/logica_nor.png" width="500">
+</p>
+
+### Compuerta NAND - Integrado 74HC00 - [Tinkercard](https://www.tinkercad.com/things/2DxINF8fswP-compuerta-nand)
+
+Paso a paso del montaje:
 ---
 
-## Resultados
+## RESULTADOS
 
-El circuito logró generar una señal cuadrada con el tiempo esperado y permitió observar el comportamiento de las compuertas lógicas estudiadas.
+Durante el desarrollo del laboratorio se logró implementar un circuito oscilador utilizando el temporizador TL555 en configuración astable. El circuito fue montado inicialmente en simulación (a traves de tinkercard) y posteriormente probado de manera física en una protoboard. Al medir la señal de salida con ayuda del osciloscopio y el multímetro, se pudo observar una señal periódica con forma de onda cuadrada, la cual alternaba entre estado alto y estado bajo.
 
+El período de la señal obtenida fue cercano a 2 segundos, lo cual coincide con el objetivo planteado en el diseño del circuito. Esto demuestra que los valores seleccionados para las resistencias y el capacitor permitieron controlar correctamente el tiempo de carga y descarga del capacitor dentro del temporizador.
+
+Además, se realizaron simulaciones de compuertas lógicas pertenecientes a la serie 74HC mediante la plataforma Tinkercad. Estas simulaciones permitieron observar el comportamiento de las salidas lógicas de acuerdo con las diferentes combinaciones de entradas, verificando así el funcionamiento esperado de las compuertas digitales.
 ---
 
-## Conclusiones
+## CONCLUSIÓN
 
-El laboratorio permitió comprender el funcionamiento de los circuitos digitales y la aplicación de compuertas lógicas en la generación de señales.
+El laboratorio permitió comprender de manera práctica el funcionamiento del temporizador TL555 configurado como multivibrador astable para la generación de una señal periódica. A través del montaje del circuito y la medición de la señal generada, fue posible comprobar que el período de la onda cuadrada depende directamente de los valores de las resistencias y el capacitor utilizados.
+
+También se pudo reforzar el conocimiento sobre el uso de circuitos integrados digitales, así como la interpretación de sus hojas técnicas, lo cual es importante para el diseño y análisis de circuitos electrónicos.
+
+Finalmente, el uso de herramientas de simulación como Tinkercad permitió analizar el comportamiento de las compuertas lógicas de la serie 74HC, facilitando la comprensión de su funcionamiento dentro de los sistemas digitales.
