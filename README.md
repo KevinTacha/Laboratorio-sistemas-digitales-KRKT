@@ -117,6 +117,7 @@ Se realizaron pruebas para verificar:
 </table>
 ---
 ## Segundo punto - compuertas logicas
+
 ### Compuerta AND – Integrado 74HC08 - [Tinkercard](https://www.tinkercad.com/things/ijYanvoWZnM-compuerta-and?sharecode=0LvTHi_rdgiP0WGKuxG89wGqPVrhitMoEK3IDhp8-3w)
 
 <p align="center">
@@ -225,6 +226,7 @@ Paso a paso del montaje:
 ### Compuerta NAND - Integrado 74HC00 - [Tinkercard](https://www.tinkercad.com/things/2DxINF8fswP-compuerta-nand)
 
 Paso a paso del montaje:
+
 ---
 
 ## RESULTADOS
@@ -234,6 +236,7 @@ Durante el desarrollo del laboratorio se logró implementar un circuito oscilado
 El período de la señal obtenida fue cercano a 2 segundos, lo cual coincide con el objetivo planteado en el diseño del circuito. Esto demuestra que los valores seleccionados para las resistencias y el capacitor permitieron controlar correctamente el tiempo de carga y descarga del capacitor dentro del temporizador.
 
 Además, se realizaron simulaciones de compuertas lógicas pertenecientes a la serie 74HC mediante la plataforma Tinkercad. Estas simulaciones permitieron observar el comportamiento de las salidas lógicas de acuerdo con las diferentes combinaciones de entradas, verificando así el funcionamiento esperado de las compuertas digitales.
+
 ---
 
 ## CONCLUSIÓN
