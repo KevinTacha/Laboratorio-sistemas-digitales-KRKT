@@ -1,4 +1,10 @@
 # LABORATORIO - SISTEMAS DIGITALES
+---
+# LINK DE ESTE REPOSITORIO:
+
+(https://github.com/KevinTacha/Laboratorio-sistemas-digitales-KRKT)
+---
+
 Fundación Universitaria Compensar
 
 Estudiantes:
