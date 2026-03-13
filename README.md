@@ -74,6 +74,7 @@ Como resultado, la salida del circuito produce una onda cuadrada periódica, la 
 <p align="center">
 <img src="imagenes/pruebareal_3.jpeg" width="500">
 </p>
+
 ---
 
 ## Paso a paso del laboratorio
