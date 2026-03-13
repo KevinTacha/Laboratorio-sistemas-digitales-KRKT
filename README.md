@@ -79,43 +79,16 @@ Como resultado, la salida del circuito produce una onda cuadrada periódica, la 
 </p>
 
 ---
-
-## Paso a paso del laboratorio
-
-### Paso 1: Análisis del circuito
-
-Primero se analizó el circuito necesario para generar una onda cuadrada de 2 segundos.
-
-Se identificaron los componentes necesarios para controlar el tiempo de oscilación.
-
----
-
-### Paso 2: Cálculo de los componentes
-
-Se calcularon los valores de resistencias y capacitores necesarios para generar el tiempo de 2 segundos en la señal.
-
----
-
-### Paso 3: Montaje del circuito
-
-Se realizó el montaje del circuito en una protoboard conectando:
-
-- El circuito integrado
-- Resistencias
-- Capacitores
-- Alimentación
-
----
-
+## Segundo punto - compuertas logicas
 ### Compuerta AND – Integrado 74HC08
 
 <p align="center">
   <img src="imagenes/compuerta_and.png" width="500">
 </p>
 
-Pasos de Montaje:
+Pasos de montaje:
 
-1. Se conectó la fuente de alimentación de 5V a los rieles positivo y negativo de la protoboard.
+1. Se conectó la fuente de alimentación de 5V al positivo y negativo de la protoboard.
 2. Se colocó el circuito integrado 74HC08 en el centro de la protoboard para separar las dos mitades del circuito.
 3. Se conectó el pin de alimentación del integrado al riel positivo y el pin de tierra al riel negativo.
 4. Se utilizó un módulo de interruptores DIP para representar las entradas lógicas A y B.
@@ -264,13 +237,3 @@ El circuito logró generar una señal cuadrada con el tiempo esperado y permiti�
 ## Conclusiones
 
 El laboratorio permitió comprender el funcionamiento de los circuitos digitales y la aplicación de compuertas lógicas en la generación de señales.
-
-
-zxxxxxxxxxx
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-3xxx
----
----
----
