@@ -67,7 +67,10 @@ donde T corresponde al período de la señal, R₁ y R₂ representan las resist
 Durante el funcionamiento del circuito, el capacitor se carga a través de las resistencias hasta alcanzar aproximadamente 2/3 del voltaje de alimentación, momento en el cual el temporizador cambia de estado y comienza el proceso de descarga hasta cerca de 1/3 del voltaje de alimentación. Este ciclo de carga y descarga se repite continuamente, generando la señal periódica observada en la salida del circuito.
 
 Finalmente, el comportamiento de la señal fue verificado mediante instrumentos de medición como osciloscopio y multímetro, conectados al montaje realizado en la protoboard, permitiendo observar la forma de la onda cuadrada y comprobar el período aproximado de la señal generada.
-[video
+
+<p align="center">
+<img src="imagenes/video1.mp4" width="500">
+</p>
 
 Como resultado, la salida del circuito produce una onda cuadrada periódica, la cual puede ser observada mediante instrumentos de medición como un osciloscopio o un multímetro, permitiendo verificar que el período de la señal se aproxima a los 2 segundos establecidos en el diseño del laboratorio.
 
