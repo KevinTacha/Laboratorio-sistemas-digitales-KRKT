@@ -71,8 +71,9 @@ Finalmente, el comportamiento de la señal fue verificado mediante instrumentos 
 
 Como resultado, la salida del circuito produce una onda cuadrada periódica, la cual puede ser observada mediante instrumentos de medición como un osciloscopio o un multímetro, permitiendo verificar que el período de la señal se aproxima a los 2 segundos establecidos en el diseño del laboratorio.
 
-[imagen oscilador
-
+<p align="center">
+<img src="imagenes/pruebareal_3.jpeg" width="250">
+</p>
 ---
 
 ## Paso a paso del laboratorio
@@ -235,7 +236,7 @@ Se realizaron pruebas para verificar:
 <tr>
 <td align="center">
 
-<img src="imagenes/pruebareal_3.jpeg" width="300"><br>
+<img src="imagenes/referencia1.jpeg" width="300"><br>
 
 </td>
 
@@ -247,9 +248,6 @@ Se realizaron pruebas para verificar:
 </tr>
 </table>
 
-<p align="center">
-<img src="imagenes/referencia1.jpeg" width="250">
-</p>
 
 ---
 
