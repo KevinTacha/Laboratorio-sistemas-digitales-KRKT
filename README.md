@@ -115,7 +115,9 @@ Se realizaron pruebas para verificar:
 </td>
 </tr>
 </table>
+
 ---
+
 ## Segundo punto - compuertas logicas
 
 ### Compuerta AND – Integrado 74HC08 - [Tinkercard](https://www.tinkercad.com/things/ijYanvoWZnM-compuerta-and?sharecode=0LvTHi_rdgiP0WGKuxG89wGqPVrhitMoEK3IDhp8-3w)
