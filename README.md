@@ -231,7 +231,7 @@ Paso a paso del montaje:
 ### Compuerta NAND - Integrado 74HC00 - [Click aqui para ver la compuerta en Tinkercad](https://www.tinkercad.com/things/2DxINF8fswP-compuerta-nand?sharecode=h-DH9Pxd8UayKtqKfkgr78nkKGpN3eHfwx6NcemO25w)
 
 <p align="center">
-<img src="imagenes/compuerta_nand.jpeg" width="500">
+<img src="imagenes/compuerta_nand.png" width="500">
 </p>
 
 Paso a paso del montaje:
@@ -246,7 +246,7 @@ Paso a paso del montaje:
 8. Verificación funcional: Se comprobó la tabla de verdad de la compuerta NAND, confirmando que el LED solo se apaga cuando ambos interruptores están en posición "ON" (1,1).
 
 <p align="center">
-<img src="imagenes/logica_nand.jpeg" width="500">
+<img src="imagenes/logica_nand.png" width="500">
 </p>
 
 
