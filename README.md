@@ -264,6 +264,8 @@ El laboratorio permitió comprender el funcionamiento de los circuitos digitales
 
 
 zxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ---
 ---
 ---
