@@ -228,7 +228,7 @@ Paso a paso del montaje:
 <img src="imagenes/logica_nor.png" width="500">
 </p>
 
-### Compuerta NAND - Integrado 74HC00 - [Click aqui para ver la compuerta en Tinkercad](https://www.tinkercad.com/things/2DxINF8fswP-compuerta-nand)
+### Compuerta NAND - Integrado 74HC00 - [Click aqui para ver la compuerta en Tinkercad](https://www.tinkercad.com/things/2DxINF8fswP-compuerta-nand?sharecode=h-DH9Pxd8UayKtqKfkgr78nkKGpN3eHfwx6NcemO25w)
 
 Paso a paso del montaje:
 
