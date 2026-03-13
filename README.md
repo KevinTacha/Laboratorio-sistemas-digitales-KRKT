@@ -232,14 +232,14 @@ Paso a paso del montaje:
 
 Pasos de montaje:
 
-1.Alimentación de la protoboard: Se conectó la fuente de voltaje a los rieles superiores de la protoboard y se realizaron puentes para energizar también los rieles inferiores.
-2.Ubicación del Integrado: Se colocó el circuito integrado 74HC00 (NAND de dos entradas) en el canal central de la protoboard para evitar cortocircuitos entre sus pines.
-3.Conexión de energía al CI: Se conectó el pin 14 a la línea positiva ($V_{CC}$) mediante un cable rojo y el pin 7 a la línea de tierra ($GND$) con un cable gris.
-4.Configuración de las entradas: Se instaló un bloque de interruptores DIP. Las entradas de los interruptores 1 y 2 se conectaron directamente al riel positivo.
-5.Resistencias de Pull-Down: Se colocaron dos resistencias desde las salidas de los interruptores hacia el riel negativo para asegurar un estado lógico "bajo" (0) cuando el interruptor esté abierto.
-6.Puente de señales lógicas: Se utilizó un cable verde para conectar la salida del primer interruptor al pin 1 (Entrada 1A) y un cable amarillo para conectar el segundo interruptor al pin 2 (Entrada 1B).
-7.Circuito de salida: Se conectó el pin 3 (Salida 1Y) mediante un cable naranja hacia el ánodo de un LED. El cátodo del LED se conectó a tierra a través de una resistencia limitadora para protegerlo.
-8.Verificación funcional: Se comprobó la tabla de verdad de la compuerta NAND, confirmando que el LED solo se apaga cuando ambos interruptores están en posición "ON" (1,1).
+1. Alimentación de la protoboard: Se conectó la fuente de voltaje a los rieles superiores de la protoboard y se realizaron puentes para energizar también los rieles inferiores.
+2. Ubicación del Integrado: Se colocó el circuito integrado 74HC00 (NAND de dos entradas) en el canal central de la protoboard para evitar cortocircuitos entre sus pines.
+3. Conexión de energía al CI: Se conectó el pin 14 a la línea positiva ($V_{CC}$) mediante un cable rojo y el pin 7 a la línea de tierra ($GND$) con un cable gris.
+4. Configuración de las entradas: Se instaló un bloque de interruptores DIP. Las entradas de los interruptores 1 y 2 se conectaron directamente al riel positivo.
+5. Resistencias de Pull-Down: Se colocaron dos resistencias desde las salidas de los interruptores hacia el riel negativo para asegurar un estado lógico "bajo" (0) cuando el interruptor esté abierto.
+6. Puente de señales lógicas: Se utilizó un cable verde para conectar la salida del primer interruptor al pin 1 (Entrada 1A) y un cable amarillo para conectar el segundo interruptor al pin 2 (Entrada 1B).
+7. Circuito de salida: Se conectó el pin 3 (Salida 1Y) mediante un cable naranja hacia el ánodo de un LED. El cátodo del LED se conectó a tierra a través de una resistencia limitadora para protegerlo.
+8. Verificación funcional: Se comprobó la tabla de verdad de la compuerta NAND, confirmando que el LED solo se apaga cuando ambos interruptores están en posición "ON" (1,1).
 
 ---
 
